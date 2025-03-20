@@ -43,4 +43,4 @@ Licença
 
 Este projeto está sob a licença [Nome da Licença]. Para mais detalhes, consulte o arquivo LICENSE.
 
-![Screenshot from 2025-03-20 19-11-52](https://github.com/user-attachments/assets/f253fba0-39ed-4996-a01e-3e7ab1d0634f)
+![Screenshot from 2025-03-20 19-11-52](https://github.com/user-attachments/assets/b161adfb-2260-4d6c-b70f-a573e7f58ea2)
