@@ -1,4 +1,4 @@
-# 42Minitalk 💬
+## 42Minitalk 💬
 
 # Descrição
 
