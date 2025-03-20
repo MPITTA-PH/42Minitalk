@@ -20,7 +20,7 @@ Este projeto consiste em um programa de comunicação entre um cliente e um serv
 
   - Inicie o servidor:
 
-  # O servidor imprimirá seu PID;
+  - O servidor imprimirá seu PID;
 
   - Noutra janela do terminal, execute o cliente passando o PID do servidor e a mensagem desejada;
 
